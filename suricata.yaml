@@ -1,0 +1,25 @@
+%YAML 1.1
+---
+
+default-log-dir: /var/log/suricata
+
+rule-files:
+  - /etc/suricata/rules/s7comm.rules
+
+logging:
+  default-log-level: info
+  outputs:
+#    - fast:
+#        enabled: yes
+#        filename: fast.log
+
+    - eve-log:
+        enabled: yes
+        filetype: regular
+        filename: eve.json
+#        types:
+#          - alert
+
+pcap:
+  file:
+    - /pcaps/s7com-plus.pcap

@@ -1,0 +1,16 @@
+version: "3.9"
+
+services:
+  suricata:
+    image: jasonish/suricata
+    privileged: true
+    container_name: suricata
+    cap_add:
+      - NET_ADMIN
+      - SYS_NICE
+#    network_mode: host
+    command: [ "/usr/bin/suricata", "-r", "/pcaps/s7com-plus.pcap", "-S", "/var/lib/suricata/rules/s7comm.rules", "-v", "-l", "/var/log/suricata"  ]
+    volumes:
+      - ./rules:/var/lib/suricata/rules
+      - ./pcaps:/pcaps
+      - ./logs:/var/log/suricata
