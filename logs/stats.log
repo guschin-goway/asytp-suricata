@@ -1,0 +1,44 @@
+---------------------------------------------------------------------------------------------------
+Date: 10/30/2025 -- 05:36:38 (uptime: 0d, 00h 00m 00s)
+---------------------------------------------------------------------------------------------------
+Counter                                                      | TM Name                   | Value
+---------------------------------------------------------------------------------------------------
+decoder.pkts                                                 | Total                     | 77
+decoder.bytes                                                | Total                     | 15901
+decoder.ipv4                                                 | Total                     | 77
+decoder.ethernet                                             | Total                     | 77
+decoder.tcp                                                  | Total                     | 77
+tcp.syn                                                      | Total                     | 1
+tcp.synack                                                   | Total                     | 1
+decoder.avg_pkt_size                                         | Total                     | 206
+decoder.max_pkt_size                                         | Total                     | 1044
+flow.total                                                   | Total                     | 1
+flow.tcp                                                     | Total                     | 1
+flow.wrk.spare_sync_avg                                      | Total                     | 100
+flow.wrk.spare_sync                                          | Total                     | 1
+flow.wrk.flows_evicted_needs_work                            | Total                     | 1
+flow.wrk.flows_evicted_pkt_inject                            | Total                     | 2
+flow.wrk.flows_injected                                      | Total                     | 1
+tcp.sessions                                                 | Total                     | 1
+tcp.ssn_from_pool                                            | Total                     | 1
+tcp.segment_from_cache                                       | Total                     | 15
+tcp.segment_from_pool                                        | Total                     | 41
+detect.alert                                                 | Total                     | 33
+detect.alerts_suppressed                                     | Total                     | 1
+app_layer.flow.failed_tcp                                    | Total                     | 1
+flow.end.state.established                                   | Total                     | 1
+flow.end.tcp_state.established                               | Total                     | 1
+flow.mgr.rows_per_sec                                        | Total                     | 6553
+flow.spare                                                   | Total                     | 9900
+memcap.pressure                                              | Total                     | 6
+memcap.pressure_max                                          | Total                     | 6
+defrag.memuse                                                | Total                     | 33554432
+tcp.memuse                                                   | Total                     | 3735552
+tcp.reassembly_memuse                                        | Total                     | 688128
+http.byterange.memuse                                        | Total                     | 176384
+http.byterange.memcap                                        | Total                     | 104857600
+ippair.memuse                                                | Total                     | 406144
+ippair.memcap                                                | Total                     | 16777216
+host.memuse                                                  | Total                     | 390144
+host.memcap                                                  | Total                     | 33554432
+flow.memuse                                                  | Total                     | 9331456

@@ -1,0 +1,33 @@
+02/28/2025-10:57:34.057630  [**] [1:100005:5] S7COMM: Very malformed packet [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.129:60087 -> 10.10.0.126:102
+02/28/2025-10:57:34.058379  [**] [1:100005:5] S7COMM: Very malformed packet [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.129:60087 -> 10.10.0.126:102
+02/28/2025-10:57:34.058864  [**] [1:100031:1] S7COMM: Invalid format [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.129:60087 -> 10.10.0.126:102
+02/28/2025-10:57:34.059187  [**] [1:100010:3] S7COMM: PLC Response [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.126:102 -> 10.10.0.129:60087
+02/28/2025-10:57:34.060480  [**] [1:100010:3] S7COMM: PLC Response [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.126:102 -> 10.10.0.129:60087
+02/28/2025-10:57:34.068265  [**] [1:100010:3] S7COMM: PLC Response [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.126:102 -> 10.10.0.129:60087
+02/28/2025-10:57:34.069456  [**] [1:100010:3] S7COMM: PLC Response [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.126:102 -> 10.10.0.129:60087
+02/28/2025-10:57:34.070430  [**] [1:100010:3] S7COMM: PLC Response [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.126:102 -> 10.10.0.129:60087
+02/28/2025-10:57:34.071466  [**] [1:100010:3] S7COMM: PLC Response [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.126:102 -> 10.10.0.129:60087
+02/28/2025-10:57:34.072661  [**] [1:100010:3] S7COMM: PLC Response [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.126:102 -> 10.10.0.129:60087
+02/28/2025-10:57:34.096199  [**] [1:100010:3] S7COMM: PLC Response [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.126:102 -> 10.10.0.129:60087
+02/28/2025-10:57:34.096569  [**] [1:100010:3] S7COMM: PLC Response [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.126:102 -> 10.10.0.129:60087
+02/28/2025-10:57:34.132153  [**] [1:100010:3] S7COMM: PLC Response [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.126:102 -> 10.10.0.129:60087
+02/28/2025-10:57:34.132502  [**] [1:100010:3] S7COMM: PLC Response [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.126:102 -> 10.10.0.129:60087
+02/28/2025-10:57:34.132677  [**] [1:100010:3] S7COMM: PLC Response [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.126:102 -> 10.10.0.129:60087
+02/28/2025-10:57:34.132871  [**] [1:100005:5] S7COMM: Very malformed packet [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.129:60087 -> 10.10.0.126:102
+02/28/2025-10:57:34.153548  [**] [1:100010:3] S7COMM: PLC Response [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.126:102 -> 10.10.0.129:60087
+02/28/2025-10:57:34.154176  [**] [1:100010:3] S7COMM: PLC Response [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.126:102 -> 10.10.0.129:60087
+02/28/2025-10:57:34.154642  [**] [1:100010:3] S7COMM: PLC Response [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.126:102 -> 10.10.0.129:60087
+02/28/2025-10:57:34.154783  [**] [1:100005:5] S7COMM: Very malformed packet [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.129:60087 -> 10.10.0.126:102
+02/28/2025-10:57:34.155356  [**] [1:100010:3] S7COMM: PLC Response [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.126:102 -> 10.10.0.129:60087
+02/28/2025-10:57:34.155782  [**] [1:100010:3] S7COMM: PLC Response [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.126:102 -> 10.10.0.129:60087
+02/28/2025-10:57:34.156532  [**] [1:100010:3] S7COMM: PLC Response [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.126:102 -> 10.10.0.129:60087
+02/28/2025-10:57:34.156890  [**] [1:100010:3] S7COMM: PLC Response [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.126:102 -> 10.10.0.129:60087
+02/28/2025-10:57:34.157242  [**] [1:100010:3] S7COMM: PLC Response [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.126:102 -> 10.10.0.129:60087
+02/28/2025-10:57:34.157374  [**] [1:100005:5] S7COMM: Very malformed packet [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.129:60087 -> 10.10.0.126:102
+02/28/2025-10:57:34.158181  [**] [1:100010:3] S7COMM: PLC Response [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.126:102 -> 10.10.0.129:60087
+02/28/2025-10:57:34.171941  [**] [1:100010:3] S7COMM: PLC Response [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.126:102 -> 10.10.0.129:60087
+02/28/2025-10:57:34.172235  [**] [1:100031:1] S7COMM: Invalid format [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.129:60087 -> 10.10.0.126:102
+02/28/2025-10:57:34.172503  [**] [1:100010:3] S7COMM: PLC Response [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.126:102 -> 10.10.0.129:60087
+02/28/2025-10:57:34.172635  [**] [1:100005:5] S7COMM: Very malformed packet [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.129:60087 -> 10.10.0.126:102
+02/28/2025-10:57:34.674915  [**] [1:100010:3] S7COMM: PLC Response [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.126:102 -> 10.10.0.129:60087
+02/28/2025-10:57:34.057630  [**] [1:100010:3] S7COMM: PLC Response [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.0.126:102 -> 10.10.0.129:60087
